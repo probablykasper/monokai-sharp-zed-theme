@@ -1,0 +1,7 @@
+id = "monokai-sharp"
+name = "Monokai Sharp"
+version = "1.0.0"
+schema_version = 1
+authors = ["Kasper Henningsen <kasperkh.kh@gmail.com>"]
+description = "Monokai Sharp theme"
+repository = "https://github.com/probablykasper/monokai-sharp"
