@@ -81,6 +81,8 @@
 				"info": "#00aaff",
 				"modified": "#9e9a23",
 				"warning": "#ff6a1f",
+				"warning.background": "#572815",
+				"warning.border": "#754221",
 				"players": [],
 				"syntax": {
 					"attribute": {
